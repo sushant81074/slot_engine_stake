@@ -1,0 +1,14 @@
+{
+  "name": "slot_engine_stake",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@slot-engine/core": "^0.1.13"
+  }
+}
